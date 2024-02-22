@@ -1,1 +1,1 @@
-<h1 align="center"> <b>LCPOTD (LeetCode Problems of the Day)</b> </h1>
+<h1 align="center"> <b>Welcome to AWS User Group Kolkata</b> </h1>
